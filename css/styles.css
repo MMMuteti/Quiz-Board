@@ -30,3 +30,19 @@
   margin-right: 570px;
   margin-top: 100px;
 }
+
+.header2 {
+  font-family: inherit;
+  color: black;
+  font-size: 0.8cm;
+}
+.header3 {
+  text-decoration: underline;
+  font-size: 0.8cm;
+  color: #99A3A4;
+  letter-spacing: 5px;
+  margin-left: 150px;
+  height: 50px;
+  margin-top: 70px;
+}
+
