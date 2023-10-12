@@ -15,3 +15,18 @@
   color: white;
 }
 
+.button1 {
+  margin-left: 300px;
+  margin-top: -50px;
+  height: 100px;
+}
+
+.test1 {
+  margin-top: 80px;
+  margin-left: 145px;
+}
+.information {
+  float: right;
+  margin-right: 570px;
+  margin-top: 100px;
+}
