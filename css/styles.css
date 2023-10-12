@@ -1,7 +1,7 @@
 .heading {
   margin-left: 50px;
   margin-right: 50px;
-  margin-top: -20px;
+  margin-top: 20px;
   background-image: linear-gradient(#47a2c9, #4cd4b0);
   height: 200px;
   font-size: 0.8cm
@@ -23,7 +23,7 @@
 
 .test1 {
   margin-top: 80px;
-  margin-left: 145px;
+  margin-left: 150px;
 }
 
 .information {
@@ -48,7 +48,7 @@
   margin-top: 70px;
 }
 
-#answers {
+#questions {
   margin-left: 90px;
   line-height: 37px;
   color: #fff;
