@@ -41,7 +41,7 @@
 .header3 {
   text-decoration: underline;
   font-size: 0.8cm;
-  color: #99A3A4;
+  color: #fff;
   letter-spacing: 5px;
   margin-left: 150px;
   height: 50px;
@@ -51,13 +51,14 @@
 #answers {
   margin-left: 90px;
   line-height: 37px;
+  color: #fff;
 }
 
 #button2 {
   border-radius: 12px;
   margin-top: 30px;
   width: 150px;
-  background-color: #76D7C4;
+  background-color: #154fc2;
   color: white;
   font-size: 0.5cm;
 }
@@ -66,13 +67,14 @@
   font-size: 0.5cm;
   margin-top: 20px;
   font-family: monospace;
+  color: #fff;
 }
 
 #button3 {
   border-radius: 12px;
   margin-top: 30px;
   width: 150px;
-  background-color: #76D7C4;
+  background-color: #154fc2;
   color: white;
   font-size: 0.5cm;
   margin-left: 20px;

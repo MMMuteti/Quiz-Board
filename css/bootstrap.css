@@ -1083,7 +1083,7 @@ th {
           box-sizing: border-box;
 }
 
-{html {
+html {
   font-size: 10px;
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -1104,7 +1104,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: ##701c1c;
   text-decoration: none;
 }
 a:hover,
@@ -5861,7 +5861,7 @@ button.close {
   -webkit-appearance: none;
   padding: 0;
   cursor: pointer;
-  background: transparent;
+  background: #701c1c;
   border: 0;
 }
 .modal-open {
