@@ -9,14 +9,20 @@ function score () {
 }
 
 $(document).ready(function() {
-    $("#button2").click(function() {
-      var question1 = $("input[name='question1']:checked").val();
-      var question2 = $("input[name='question2']:checked").val();
-      var question3 = $("input[name='question3']:checked").val();
-      var question4 = $("input[name='question4']:checked").val();
-      var question5 = $("input[name='question5']:checked").val();
-      console.log(question1);
-      console.log(question2);
-      console.log(question3);
-      console.log(question4);
-      console.log(question5);
+  $("#button2").click(function() {
+    var question1 = $("input[name='question1']:checked").val();
+    var question2 = $("input[name='question2']:checked").val();
+    var question3 = $("input[name='question3']:checked").val();
+    var question4 = $("input[name='question4']:checked").val();
+    var question5 = $("input[name='question5']:checked").val();
+    console.log(question1);
+    console.log(question2);
+    console.log(question3);
+    console.log(question4);
+    console.log(question5);
+
+
+
+
+})
+})
