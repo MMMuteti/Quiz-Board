@@ -16,14 +16,15 @@
 }
 
 .button1 {
-  margin-left: 300px;
-  margin-top: -50px;
+  margin-left: 500px;
+  margin-top: -70px;
   height: 100px;
 }
 
 .test1 {
   margin-top: 80px;
   margin-left: 150px;
+  float: centre;
 }
 
 .information {
@@ -36,6 +37,8 @@
   font-family: inherit;
   color: black;
   font-size: 0.8cm;
+  margin-left: 100px;
+  margin-top: -230px;
 }
 
 .header3 {
