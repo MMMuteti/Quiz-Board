@@ -25,6 +25,7 @@
   margin-top: 80px;
   margin-left: 145px;
 }
+
 .information {
   float: right;
   margin-right: 570px;
@@ -36,6 +37,7 @@
   color: black;
   font-size: 0.8cm;
 }
+
 .header3 {
   text-decoration: underline;
   font-size: 0.8cm;
@@ -44,5 +46,25 @@
   margin-left: 150px;
   height: 50px;
   margin-top: 70px;
+}
+
+#answers {
+  margin-left: 90px;
+  line-height: 37px;
+}
+
+#button2 {
+  border-radius: 12px;
+  margin-top: 30px;
+  width: 150px;
+  background-color: #76D7C4;
+  color: white;
+  font-size: 0.5cm;
+}
+
+#result {
+  font-size: 0.5cm;
+  margin-top: 20px;
+  font-family: monospace;
 }
 
