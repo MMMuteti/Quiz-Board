@@ -31,7 +31,7 @@ For queries, clarifications or any kind of inut please feel free to engage me on
 ### License
 *MIT License
 
-Copyright (c) [YEAR] [USERNAME]
+Copyright (c) [2023] [MMMuteti]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
